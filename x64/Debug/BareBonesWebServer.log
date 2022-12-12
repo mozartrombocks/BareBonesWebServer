@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\shadm\Documents\myworks2\BareBonesWebServer\BareBonesWebServer\main.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\shadm\Documents\myworks2\BareBonesWebServer\BareBonesWebServer\main.cpp(90,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shadm\Documents\myworks2\BareBonesWebServer\BareBonesWebServer\main.cpp(124,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shadm\Documents\myworks2\BareBonesWebServer\BareBonesWebServer\main.cpp(133,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shadm\Documents\myworks2\BareBonesWebServer\BareBonesWebServer\main.cpp(155,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  BareBonesWebServer.vcxproj -> C:\Users\shadm\Documents\myworks2\BareBonesWebServer\x64\Debug\BareBonesWebServer.exe
